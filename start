@@ -19,6 +19,4 @@ _other_installs
 pip3 install -U pip
 git clone https://github.com/Adrmaul/ccg ccgnimex
 cd ccgnimex
-pip3 install -U -r requirements.txt
-_externals
 python -m amime
