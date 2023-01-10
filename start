@@ -19,4 +19,5 @@ _other_installs
 pip3 install -U pip
 git clone https://github.com/Adrmaul/ccg ccgnimex
 cd ccgnimex
+pip3 install --no-cache-dir -r requirements.txt
 python -m amime
