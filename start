@@ -18,6 +18,6 @@ apt install git -y
 _other_installs
 pip3 install -U pip
 git clone https://github.com/Myudi422/anilist-bot anibot
-cd ccgnimex
+cd anibot
 pip3 install --no-cache-dir -r requirements.txt
 python -m anibot
