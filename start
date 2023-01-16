@@ -17,7 +17,7 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone anibotccgnimex anibot
+git clone https://github.com/Myudi422/anibotccgnimex anibot
 cd anibot
 pip3 install --no-cache-dir -r requirements.txt
 python -m anibot
